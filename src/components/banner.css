@@ -1,0 +1,21 @@
+
+.banner-container {
+  background: linear-gradient(90deg, #005bff 0%, #66b2ff 100%);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+.custom-white-btn {
+  background-color: white;
+  color: #005bff;
+  font-weight: 600;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.custom-white-btn:hover {
+  background-color: #e6e6e6;
+  color: #0044cc;
+}
